@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44175243024",
+    "project_id": "renthome-ceec4",
+    "storage_bucket": "renthome-ceec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44175243024:android:053c866b1c4540e7261795",
+        "android_client_info": {
+          "package_name": "com.anisha.cityrooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44175243024-7ktvor228oeapudh8rbi2d5hac4n0e0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0TOWcxaynzZ6_2YEC3-ik11Hfimps5DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44175243024-7ktvor228oeapudh8rbi2d5hac4n0e0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
